@@ -1,3 +1,4 @@
+console.log("At least Something Worked")
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Router, hashHistory  } from 'react-router';
